@@ -1,9 +1,12 @@
 # SIMS-MOCO
  Sistem Informasi Monitoring Subkontraktor PT Hasnur Riung Sinergi Berbasis CodeIgniter 3 sebagai persyaratan Praktik Kerja Lapangan Semester 7 UNISKA
 
-# Requirement System
+# Dibuat Menggunakan
 PHP Version 5.6.40 <br>
-CodeIgniter 3
+CodeIgniter 3 <br>
+Atlantis Dashboard <br>
+Sweetalert2
+dll...
 
 # Login
 Admin <br>
